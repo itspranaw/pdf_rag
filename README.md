@@ -24,15 +24,15 @@ A Streamlit-based application that enables interaction with PDF documents using 
 2. **Set up a virtual environment:**
 
 For Linux/Mac:
-bash
-Copy
+```bash
 python -m venv venv
 source venv/bin/activate
+```
 For Windows:
-bash
-Copy
+```bash
 python -m venv venv
 venv\Scripts\activate
+```
 
 3. **Install dependencies:**
 
