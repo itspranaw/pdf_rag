@@ -23,12 +23,12 @@ A Streamlit-based application that enables interaction with PDF documents using 
    cd <repository-directory>
 2. **Set up a virtual environment:**
 
-For Linux/Mac:
+***For Linux/Mac:***
 ```bash
 python -m venv venv
 source venv/bin/activate
 ```
-For Windows:
+***For Windows:***
 ```bash
 python -m venv venv
 venv\Scripts\activate
